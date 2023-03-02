@@ -1,0 +1,1 @@
+mapbox_token = 'YOUR MAPBOX API ACCESS TOKEN';

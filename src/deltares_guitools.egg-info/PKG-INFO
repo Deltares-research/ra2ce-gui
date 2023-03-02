@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: deltares-guitools
+Version: 0.0.9
+Summary: Deltares GUI Toolkit
+Home-page: https://pypi.org/project/deltares-guitools
+Author: Maarten van Ormondt
+Author-email: maarten.vanormondt@deltares.nl
+License: MIT
+Keywords: deltares gui
+License-File: LICENSE
+
+none
